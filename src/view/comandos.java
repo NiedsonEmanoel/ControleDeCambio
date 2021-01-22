@@ -6,6 +6,10 @@ public class comandos {
     public static void Iniciar() {
         API.RequisitarTODAS_AS_MOEDAS();
         escreverMenu();
+        realpDolar();
+        realpEuro();
+        realpLibra();
+        realpPeso();
     }
     
     public static void escreverMenu(){
