@@ -1,5 +1,5 @@
 package model.moedas;
 
-import model.Moeda;
+import model.classesAbstratas.Moeda;
 
 public class ARS extends Moeda{}

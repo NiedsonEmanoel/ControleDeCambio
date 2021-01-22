@@ -9,6 +9,6 @@ public class comandos {
     }
     
     public static void escreverMenu(){
-        /*ESTOU AQUI ESPERANDO ALGUM BONITO FAZER O MENU*/
+        
     }
 }

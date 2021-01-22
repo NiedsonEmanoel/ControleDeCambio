@@ -1,4 +1,4 @@
-package model;
+package model.classesAbstratas;
 import control.API;
 import java.text.DateFormat;
 import java.text.ParseException;
