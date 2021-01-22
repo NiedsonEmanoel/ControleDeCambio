@@ -3,7 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/G:/Usuários/Niedson%20Emanoel/Documents/NetBeansProjects/controleDeCambio/src/view/main.java</file>
+            <file>file:/G:/Usuários/Niedson%20Emanoel/Documents/NetBeansProjects/controleDeCambio/controleDeCambio/src/view/Main.java</file>
+            <file>file:/G:/Usuários/Niedson%20Emanoel/Documents/NetBeansProjects/controleDeCambio/controleDeCambio/src/model/moedas/EUR.java</file>
+            <file>file:/G:/Usuários/Niedson%20Emanoel/Documents/NetBeansProjects/controleDeCambio/controleDeCambio/src/control/API.java</file>
+            <file>file:/G:/Usuários/Niedson%20Emanoel/Documents/NetBeansProjects/controleDeCambio/controleDeCambio/src/model/classesAbstratas/Moeda.java</file>
         </group>
     </open-files>
 </project-private>
