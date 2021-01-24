@@ -1,4 +1,4 @@
-package view.comandos;
+package control.comands;
 
 import model.dados.bdMoedas;
 

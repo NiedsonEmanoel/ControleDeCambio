@@ -1,11 +1,11 @@
-package view.comandos;
+package control.comands;
 import control.API;
 import java.text.DecimalFormat;
 import java.text.ParseException;
 import java.util.Scanner;
 import model.dados.bdMoedas;
-import static view.comandos.objects.*;
-import static view.comandos.Calculos.*;
+import static control.comands.objects.*;
+import static control.comands.Calculos.*;
 
 public class Iniciais {
     public final static void Iniciar() throws ParseException {
