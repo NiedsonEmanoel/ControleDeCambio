@@ -1,5 +1,4 @@
 package model.classesAbstratas;
-import control.API;
 import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -11,12 +10,21 @@ public abstract class Moeda {
         private String ask;
         private String name;
         private String create_date;
+        private String code;
    
-         public double getCotacao() {
+        public double getCotacao() {
             double r = Double.parseDouble(this.ask);
             return r;
         }
          
+        public String getCode() {
+            return this.code;
+        }
+        
+        public void setCode(String c) {
+            this.code = c;
+        }
+        
         public String getMoeda() {
             return this.name;
         }

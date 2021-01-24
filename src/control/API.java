@@ -115,7 +115,7 @@ public final class API {
     
     public static void RequisitarDADOS_ARS() {
         try {
-            String url = "https://economia.awesomeapi.com.br/EUR-BRL";
+            String url = "https://economia.awesomeapi.com.br/ARS-BRL";
 
             HttpURLConnection conn = (HttpURLConnection) new URL(url).openConnection();
 
